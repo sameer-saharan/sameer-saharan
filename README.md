@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Hre is <a href="https://sameersaharan.vercel.app" target="_blank">My Portfolio</a>
+- 👨‍💻 Here is <a href="https://sameersaharan.vercel.app" target="_blank">My Portfolio</a>
 
 - 📫 How to reach me **sameerwebdev@outlook.com**
 
