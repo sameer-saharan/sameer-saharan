@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at <a> href="https://sameersaharan.vercel.app" </a>
+- 👨‍💻 All of my projects are available at <a href="https://sameersaharan.vercel.app">My Portfolio</a>
 
 - 📫 How to reach me **sameerwebdev@outlook.com**
 
