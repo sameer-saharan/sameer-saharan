@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sameer Saharan</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
+<h4>About</h4>
+<p>Final Year student of 'Bachelor of Arts' programme at Vardhman Mahaveer Open University, Kota. Intermediate in Data Structures and Algorithms and Beginner in Development with basic knowledge of HTML, CSS and JavaScript. 
+</p>
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://sameersaharan.vercel.app" target="_blank">My Portfolio</a>
