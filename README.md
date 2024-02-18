@@ -9,7 +9,7 @@
 
 - 👨‍💻 Here is <a href="https://sameersaharan.vercel.app" target="_blank">My Portfolio</a>
 
-- 📫 How to reach me **sameerwebdev@outlook.com**
+- 📫 Reach me at **sameerwebdev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
